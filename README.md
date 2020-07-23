@@ -7,7 +7,5 @@ Meu nome é Renato, sou um Desenvolvedor Web Full Stack, gosto muito de JavaScri
 
 - 🔭 Estou trabalhando atualmente em sistemas com PHP/Laravel no back-end e ReactJS no front-end
 - 🌱 Recentemente comecei a aprender Laravel, mas continuo me aprofundando em Nodejs e React
+- ⚡ Além de programar, curto jogos e animes
 - 💬 Fique a vontade para entrar em contato comigo :)
-- ⚡ Além de programar, curto games e animes
-
-"Excuse me, I am the very cool online guy." -Papyrus :skull:
