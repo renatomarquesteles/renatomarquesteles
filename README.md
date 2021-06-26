@@ -6,6 +6,6 @@
 Meu nome é Renato, sou um Desenvolvedor Web Full Stack, gosto muito de JavaScript e todo seu ecossistema.
 
 - 🔭 Estou trabalhando atualmente em sistemas com PHP/Laravel no back-end e ReactJS no front-end
-- 🌱 Recentemente comecei a aprender Laravel, mas continuo me aprofundando em Nodejs e React
+- 🌱 Também estou desenvolvendo meu TCC com Node.js (Back-end) e React Native (Mobile)
 - ⚡ Além de programar, curto jogos e animes
 - 💬 Fique a vontade para entrar em contato comigo :)
