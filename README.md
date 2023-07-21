@@ -1,8 +1,8 @@
 ## Hello! 👋
-I'm a brazilian fullstack web developer specialized in front-end development. I'm currently working with ReactJS and all it's ecosystem.
+I'm a Brazilian software engineer fascinated by creating amazing interfaces and user experiences.
 
-- 💚 Besides programming I'm also into crypto, games and anime
-- 🍗 My favorite food is chicken stroganoff
+- ✅ My main focus is front-end development with React, TypeScript, Next.js, Tailwind CSS and others.
+- 💜 Besides programming I'm also into crypto, games and anime.
 - 💬 Feel free to contact me!
 
 [![Linkedin Badge](https://img.shields.io/badge/-Renato%20Marques%20Teles-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renato-marques-teles/)](https://www.linkedin.com/in/renato-marques-teles/)
